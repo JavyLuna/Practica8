@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica #8</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Practica Android #8</string>
+    <string name="sub">Distancia en Metros</string>
+    <string name="sub2">Distancia en Pies</string>
+    <string name="boton">Convertir</string>
+</resources>
